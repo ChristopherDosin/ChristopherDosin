@@ -2,7 +2,7 @@
 
 I'm a Shopware 6 Developer 💙, Frontend & Backend 💪
 
-Currently I am building a small but effective and experienced team of Shopware 6 Developers, which are helping Agencies within the backend. 🚀
+Currently I am building a small but effective and experienced team of Shopware 6 Developers, which are helping Agencies within the background 👻
 
 But hey! Don't call us Outsource Butze, we're a team, a team, aaaaaa teeeeaaaam! 👨‍👨‍👦
 
